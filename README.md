@@ -55,15 +55,14 @@
    git clone https://github.com/tu_usuario/aprendizaje-maquina.git
     ```
 2. Navega al directorio del proyecto:
-```
-cd aprendizaje-maquina
-
-```
+   ```
+   cd aprendizaje-maquina
+   ```
 3. Abre los notebooks en Jupyter:
-```
-jupyter notebook
-
-```
+   ```
+   jupyter notebook
+   
+   ```
 ## Contribuciones 
 Si deseas contribuir al proyecto, ¡eres bienvenido! Puedes abrir un issue o enviar un pull request con mejoras o nuevas ideas.
 
