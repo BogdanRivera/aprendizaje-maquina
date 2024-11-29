@@ -1,4 +1,4 @@
-# Proyecto: Aprendizaje Máquina
+# Proyectos de Machine Learning
 
 ¡Bienvenido a mi repositorio de proyectos de aprendizaje automático! Este espacio contiene análisis y modelos que abordan diferentes problemas y conjuntos de datos, implementados en **Python** utilizando **Jupyter Notebooks**.
 
